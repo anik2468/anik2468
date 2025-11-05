@@ -1,11 +1,11 @@
-💫 About Me:
+### 💫 About Me:
 
-Hi there! I'm Aniket Maurya, a B.Tech Computer Science student at GEC Sheikhpura. I'm an aspiring Cybersecurity Specialist passionate about ethical hacking, networking, and system security. When I'm not exploring code or running penetration tests, I'm working on sustainable tech ideas like MittanFert, which focuses on organic fertilizers from rural waste.
+Hi there! I'm **Aniket Maurya**, a B.Tech Computer Science student at GEC Sheikhpura. I'm an aspiring Cybersecurity Specialist passionate about ethical hacking, networking, and system security. When I'm not exploring code or running penetration tests, I'm working on sustainable tech ideas like MittanFert, which focuses on organic fertilizers from rural waste.
 
 
 ---
 
-🔭 I’m currently working on:
+### 🔭 I’m currently working on:
 
 Learning advanced cybersecurity tools & techniques
 
@@ -14,7 +14,7 @@ Practicing ethical hacking and CTF challenges
 Developing my final year projects with real-world impact
 
 
-🌱 I’m currently learning:
+### 🌱 I’m currently learning:
 
 Network security and Linux hardening
 
@@ -23,29 +23,29 @@ Python scripting for automation & exploitation
 Web application security (OWASP Top 10)
 
 
-💻 Tech Stack:
+### 💻 Tech Stack:
 
-Languages: C, Python, JavaScript, HTML, c++, CSS and many more 
+Languages: C, Python, JavaScript, HTML, C++, CSS and many more 
 
 Tools: Kali Linux, Wireshark, Nmap, Burp Suite
 
 Other: Git, VS Code, Linux (Debian-based distros)
 
 
-⚡ Fun fact:
+### ⚡ Fun fact:
 
 I love listening to music, playing badminton, and finding innovative tech solutions for rural India.
 
 
 ---
 
-📫 Connect with me:
+### 📫 Connect with me:
 
-💼 LinkedInhttps://www.linkedin.com/in/aniket-maurya-240379339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app-
+💼 LinkedIn- https://www.linkedin.com/in/aniket-maurya-240379339
 
-🐦 Twitter-https://x.com/itx_me_maurya?t=_DW9aMZGwcV-KaXLxpcqvA&s=09
+🐦 Twitter- https://x.com/itx_me_maurya
 
-📷 Instagram-https://www.instagram.com/itx_me__maurya?igsh=ejlrcWhjZTlmd2Y=
+📷 Instagram- https://www.instagram.com/itx_me__maurya
 
 👤 Facebook- https://www.facebook.com/share/16CkwZXo68/
 
